@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(20,15,50)
+}
+
+form{
+    display: inline-block;
+}
+#formDiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#imgDiv{
+    margin: 3em;
+}
+img{
+    margin: 5px;
+}
+button{
+    height: 30px;
+    width: 120px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 8px;
+}
+#removeBtn{
+    background-color: chocolate;
+}
+#searchBtn {
+    background-color: rgb(45, 69, 255);
+}
+
+
+input{
+    height: 30px;
+    width: 120px;
+    border-radius: 4px;
+}
